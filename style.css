@@ -1,0 +1,8 @@
+/* Custom CSS styles */
+body {
+    padding-top: 70px; /* Offset the navbar height */
+}
+
+.card {
+    margin-bottom: 20px;
+}
